@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    
+    <!-- Navigation -->
+    <string name="nav_heart_rate">Heart Rate</string>
+    <string name="nav_walking">Walking</string>
+    
+    <!-- Heart Rate Screen -->
+    <string name="current_heart_rate">Current Heart Rate</string>
+    <string name="bpm">BPM</string>
+    <string name="heart_rate_not_available">Heart rate sensor not available</string>
+    
+    <!-- Walking Tracker Screen -->
+    <string name="steps_today">Steps Today</string>
+    <string name="distance_walked">Distance Walked</string>
+    <string name="set_daily_goal">Set Daily Goal</string>
+    <string name="daily_goal_hint">Enter your daily step goal</string>
+    
+    <!-- Common -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="loading">Loading…</string>
+    
+    <!-- Privacy Settings -->
+    <string name="privacy_settings">Privacy Settings</string>
+    <string name="data_collection">Data Collection</string>
+    <string name="data_sharing">Data Sharing</string>
+    
+    <!-- Social Sharing -->
+    <string name="share_progress">Share Progress</string>
+    <string name="share_achievement">Share Achievement</string>
+    
+    <!-- Notifications -->
+    <string name="notification_goal_reached">Congratulations! You\'ve reached your daily goal!</string>
+    <string name="notification_reminder">Don\'t forget to stay active today!</string>
+</resources>
